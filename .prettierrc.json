@@ -5,6 +5,6 @@
   "arrowParens": "avoid",
   "semi": true,
   "trailingComma": "none",
-	"printWidth": 100,
-	"bracketSameLine": false
+  "printWidth": 100,
+  "bracketSameLine": false
 }
